@@ -1,1 +1,54 @@
-main.css
+
+body {background-color: #000033;}
+
+element.style {
+
+}
+
+@media (max-width: 700px){
+body{
+background-color: #56ABCC;
+}
+}
+
+.cuadro {width: 300px;
+height: 300px;
+background: white;
+position: absolute;
+bottom: 50px;
+left: 50px;}
+
+.cuadro2 {width: 300px;
+height: 300px;
+background: white;
+position: absolute;
+bottom: 50px;
+left: 360px;}
+
+.cuadro3 {width: 300px;
+height: 300px;
+background: white;
+position: absolute;
+bottom: 50px;
+left: 670px;}
+
+.cuadro4 {width: 300px;
+height: 300px;
+background: white;
+position: absolute;
+bottom: 50px;
+left: 980px;}
+
+.ventana1a {width: 100px;
+height: 100px;
+background: #00A99D;
+position: absolute;
+bottom: 230px;
+left: 80px;}
+
+.pasto {width: 200%;
+height: 50px;
+background: #8CC63F;
+position: absolute;
+bottom: 0px;
+left: 0px;}
