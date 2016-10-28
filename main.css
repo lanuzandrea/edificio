@@ -46,6 +46,27 @@ position: absolute;
 bottom: 230px;
 left: 80px;}
 
+.ventana2a {width: 100px;
+height: 100px;
+background: #00A99D;
+position: absolute;
+bottom: 230px;
+left: 215px;}
+
+.ventana3a {width: 100px;
+height: 100px;
+background: #00A99D;
+position: absolute;
+bottom: 100px;
+left: 80px;}
+
+.ventana4a {width: 100px;
+height: 100px;
+background: #00A99D;
+position: absolute;
+bottom: 100px;
+left: 215px;}
+
 .pasto {width: 200%;
 height: 50px;
 background: #8CC63F;
